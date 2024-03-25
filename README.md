@@ -1,10 +1,13 @@
-# presentacion-
+# Hola!
+# Esta es mi presentacion.
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Mi nombre es Thiago, tengo 22 años soy de San Martin, Buenos Aires pero de chico vivi unos meses en Cordoba y Mendoza porque mi familia es de ahi.
+# Algunas de las cosas que mas me gustan son 
+- Entrenar
+- Ver la Formula 1
+- Conocer Cafeterias nuevas
+- Cocinar 
+- Viajar 
+- Tocar algun instrumento musical 
 
-Ya saben usar git!
+
